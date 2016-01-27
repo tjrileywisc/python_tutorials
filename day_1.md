@@ -16,5 +16,6 @@ If not, you have some work ahead of you.
 This gives Windows a reference to the installation location for python, so that when you type 'python' into the start 
 menu (or a cmd window), a python interpreter should start up.
 
-- About python 3.x
-You might see links to install python 3.x. This has been out for a while but python 2.7.x is probably still more widely used at the time of writing of this tutorial and it is assumed you will be running this version. After going through these tutorials, you can migrate to that version if it fits your needs.
+#About python 3.x:
+
+You might see links to install python 3.x. This has been out for a while now but python 2.7.x is probably still more widely used at the time of writing of this tutorial and it is assumed you will be running this version. After going through these tutorials, you can migrate to that version if it fits your needs.
