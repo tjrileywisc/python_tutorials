@@ -6,7 +6,7 @@
 2. Type 'python' (without quotes) and hit enter
 3. Do you see a window like this? Does the version number show 2.7.x (left arrow)? And is it 64-bit? If so, you're done for today, congrats!
  
- 
+ (add screenshot here)
  
  
 If not, you have some work ahead of you. 
