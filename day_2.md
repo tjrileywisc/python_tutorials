@@ -5,7 +5,7 @@ Python should now start from the command line (type 'python' and hit enter) or f
  
 #Your first program:
  
-This will be super easy - you're going to ask the python interpreter to spit some text back out at you. Type (don't copy paste, you need to build up some muscle memory to code faster!) the following into the window (after the >>> prompt):
+This will be super easy - you're going to ask the python interpreter to spit some text back out at you. Type (don't copy paste, you need to build up some muscle memory to code faster!) the following into the window (after the ```>>>``` prompt):
  
  
 ```print "hello world"```
