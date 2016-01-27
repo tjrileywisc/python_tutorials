@@ -7,9 +7,9 @@ Python should now start from the command line (type 'python' and hit enter) or f
  
 This will be super easy - you're going to ask the python interpreter to spit some text back out at you. Type (don't copy paste, you need to build up some muscle memory to code faster!) the following into the window (after the >>> prompt):
  
-''' 
-print "hello world"
-'''
+ 
+  print "hello world"
+
  
 Now press enter. You should see this (don't run to the printer to wait for the output though!):
  
@@ -18,9 +18,9 @@ Now press enter. You should see this (don't run to the printer to wait for the o
  
 If it worked, great! You have made a simple 'program' now that does a very silly thing but you have seen a bit of the python syntax already. Try this now:
 
-''' 
-print 'hello world'
-'''
+
+  print 'hello world'
+
  
 Did that work? It better have - single quotes (') are equivalent to double quotes (") in python.
  
@@ -28,9 +28,9 @@ What you've done here is created a string (as in, a string of characters). Anyth
  
 Now a little more:
 
-''' 
-print 12345
-'''
+
+  print 12345
+
 
 You should see this:
  
